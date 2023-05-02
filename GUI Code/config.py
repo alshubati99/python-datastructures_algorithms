@@ -1,7 +1,3 @@
-"""
-Python Data Structures - A Game-Based Approach
-Robin Andrews - https://compucademy.net/
-"""
 
 # MAZE_FILE = "gui_mazes/square_maze_25x25.txt"
 # MAZE_FILE = "gui_mazes/pacman_maze.txt"
