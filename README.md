@@ -1,5 +1,5 @@
 # Python Data Structures and Algorithms Course by LinkedIn Learning
-# [*Course Certificate*]()
+# [*Course Certificate*](https://www.linkedin.com/learning/certificates/26937a628b563d97f821129fa40f7e623ea1622b70540326bdf81589cb2a3faf)
 
 ### Stacks
 - using class to represent stack 
